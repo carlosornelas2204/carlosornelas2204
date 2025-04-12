@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Carlos Ornelas
 
-<!--
-**carlosornelas2204/carlosornelas2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Desenvolvedor Full Stack com foco em backend, automação e dados.  
+🚀 Apaixonado por criar soluções inteligentes usando Python, C#, SQL Server e Flutter.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+- Backend: .NET Core, Flask, Django, REST APIs
+- Data: SQL Server, Pandas, NumPy, R
+- Frontend: Angular, React, JavaScript ES6+
+- Mobile: Flutter + Firebase
+- Outros: Selenium, Git, Docker, VBA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos Relevantes
+- 🔧 [CRM para Barbearias (Flutter + Firebase)]([link](https://github.com/carlosornelas2204/i_barber))
+- 🎬 [App de Lista de Filmes]([link](https://github.com/carlosornelas2204/MovieList))
+- 📊 Dashboards automatizados com Excel + Power Query + Python
+
+📫 Contato: carlos.ornelas2204@gmail.com
